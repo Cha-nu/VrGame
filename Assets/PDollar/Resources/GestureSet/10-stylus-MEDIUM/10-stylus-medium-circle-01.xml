@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="Circle">
+	<Stroke index="1">
+		<Point X="100" Y="150" />
+		<Point X="121" Y="147" />
+		<Point X="140" Y="135" />
+		<Point X="150" Y="100" />
+		<Point X="140" Y="65" />
+		<Point X="121" Y="53" />
+		<Point X="100" Y="50" />
+		<Point X="79" Y="53" />
+		<Point X="60" Y="65" />
+		<Point X="50" Y="100" />
+		<Point X="60" Y="135" />
+		<Point X="79" Y="147" />
+		<Point X="100" Y="150" />
+	</Stroke>
+</Gesture>

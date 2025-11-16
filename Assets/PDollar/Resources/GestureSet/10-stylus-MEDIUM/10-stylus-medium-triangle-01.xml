@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Gesture Name="Triangle">
+	<Stroke index="1">
+		<Point X="100" Y="150" />
+		<Point X="110" Y="130" />
+		<Point X="120" Y="110" />
+		<Point X="130" Y="90" />
+		<Point X="140" Y="70" />
+		<Point X="150" Y="50" />
+		<Point X="125" Y="50" />
+		<Point X="100" Y="50" />
+		<Point X="75" Y="50" />
+		<Point X="50" Y="50" />
+		<Point X="60" Y="70" />
+		<Point X="70" Y="90" />
+		<Point X="80" Y="110" />
+		<Point X="90" Y="130" />
+		<Point X="100" Y="150" />
+	</Stroke>
+</Gesture>
