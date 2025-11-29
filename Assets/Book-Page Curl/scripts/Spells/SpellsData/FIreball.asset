@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4470e3fb6861e4f418f9eefdcd21f5a1, type: 3}
+  m_Name: FIreball
+  m_EditorClassIdentifier: Assembly-CSharp::SpellDefinition
+  spellId: fireball
+  displayName: Fireball
+  glyph: {fileID: 21300000, guid: 7d05d3bac11f0d648aa304f9e541c1c0, type: 3}
+  castIllustration: {fileID: 21300000, guid: 514b6455881299d4cb3ea133f9cb7ba8, type: 3}
+  accentColor: {r: 0.6981132, g: 0.31666544, b: 0, a: 1}
+  description: Release a ball of fire at targeted location.
+  manaCost: 0
+  cooldown: 0
+  incantation: 
